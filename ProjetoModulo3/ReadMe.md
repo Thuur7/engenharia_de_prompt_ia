@@ -607,56 +607,6 @@ module.exports = {
 
 
 
-# 📝 Registro da Aula
-
-Data: 12/05/2026
-
-Atividade: Discussão crítica + mini-projeto de aplicação
-
-Local: Laboratório de informática / Quadro branco
-
-Professor(a): Kadidja Valéria
-
-Resumo da Aula
-
-Nesta aula, discutimos os conceitos de Low Code/No Code e como aplicá-los em projetos reais. O desafio proposto foi criar uma aplicação web funcional que demonstrasse:
-
-1.
-Rapidez de desenvolvimento usando ferramentas modernas
-
-2.
-Qualidade de interface com frameworks CSS
-
-3.
-Integração com APIs externas
-
-4.
-Responsividade em múltiplos dispositivos
-
-5.
-Boas práticas de código
-
-Aprendizados Principais
-
-✅ React e TypeScript são excelentes para desenvolvimento rápido
-✅ Tailwind CSS acelera criação de interfaces
-✅ APIs públicas permitem funcionalidades complexas sem backend
-✅ Hospedagem gerenciada simplifica deploy
-✅ Documentação é essencial para manutenção
-
-Discussão Crítica
-
-Pergunta: "Por que usar Low Code em vez de código tradicional?"
-
-Resposta: Low Code não significa "sem código". Significa usar ferramentas e abstrações que aumentam produtividade sem sacrificar qualidade. React, TypeScript e Tailwind são exemplos de ferramentas que aceleram desenvolvimento mantendo boas práticas.
-
-Pergunta: "Quais são os riscos de usar APIs gratuitas?"
-
-Resposta: Risco de indisponibilidade, limite de requisições, falta de suporte. Solução: usar múltiplas APIs como fallback e implementar cache local.
-
-Pergunta: "Como escalar uma aplicação assim?"
-
-Resposta: Migrar para APIs pagas, implementar backend próprio, usar CDN, adicionar banco de dados, implementar autenticação.
 
 
 
